@@ -17,13 +17,25 @@
         "flowFileOutboundPolicy" : "STREAM_WHEN_AVAILABLE",
         "funnels" : [ ],
         "identifier" : "0b8f9b2a-8a60-3826-a7f3-c56a2fc5680d",
-        "inputPorts" : [ ],
+        "inputPorts" : [ {
+          "allowRemoteAccess" : false,
+          "componentType" : "INPUT_PORT",
+          "concurrentlySchedulableTaskCount" : 1,
+          "groupIdentifier" : "0b8f9b2a-8a60-3826-a7f3-c56a2fc5680d",
+          "identifier" : "13c5f69e-6e74-3229-81b4-d4fb9426c553",
+          "name" : "fsdfgsdgsdg",
+          "position" : {
+            "x" : 217.0,
+            "y" : 38.0
+          },
+          "type" : "INPUT_PORT"
+        } ],
         "labels" : [ ],
         "name" : "fnhmdfhjdj",
         "outputPorts" : [ ],
         "position" : {
-          "x" : 368.0,
-          "y" : 48.0
+          "x" : 248.0,
+          "y" : 0.0
         },
         "processGroups" : [ ],
         "processors" : [ ],
